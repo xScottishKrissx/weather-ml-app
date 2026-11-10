@@ -1,0 +1,12 @@
+
+# Flask provides the application's web framework.
+Flask
+
+# NumPy provides arrays used for ML predictions.
+numpy
+
+# Pandas provides data manipulation functionality.
+pandas
+
+# Scikit-learn provides the Random Forest model implementation.
+scikit-learn
